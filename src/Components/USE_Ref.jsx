@@ -8,7 +8,7 @@ const USE_Ref = () => {
 
   return (
     <div>
-      <h2 className="text-4xl text-black text-center my-6">useRef</h2>
+      <h2 className="text-4xl text-black border text-center my-6">useRef</h2>
     </div>
   );
 };
