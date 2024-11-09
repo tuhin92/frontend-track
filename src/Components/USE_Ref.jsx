@@ -9,6 +9,7 @@ const USE_Ref = () => {
   return (
     <div>
       <h2 className="text-4xl text-black border bg-purple-500 text-center my-6">useRef</h2>
+      <button className="btn btn-primary">Use Ref</button>
     </div>
   );
 };
